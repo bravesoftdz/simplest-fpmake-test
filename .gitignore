@@ -1,0 +1,6 @@
+*~
+fpmake
+fpmake.exe
+*.o
+units
+*.fpm
